@@ -1,2 +1,2 @@
 # promajus23
-# gyakoroljuk a githubot
+# konfliktus lesz
